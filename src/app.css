@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.MuiPaper-elevation1-1106 {
+    box-shadow:"none i !important";
+}
+.MuiPaper-elevation1-49{
+    box-shadow:"none i !important";
+    overflow: scroll;
+    width: 100%;
+    margin: 0;
+}
